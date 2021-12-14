@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Qianqian Xie
-  - Jimin Huang
+  - admin
   - Pan Du
   - Min Peng
   - Jian-Yun Nie
