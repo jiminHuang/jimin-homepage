@@ -9,10 +9,13 @@ authors:
   - Shizhong Wang
   - Hua Wang
   - Guangping Zhuo
-  - and Gang Tian
+  - and Gang Tian*
+author_notes:
+  - Supervisor
+  - Main contribution
 doi: https://doi.org/10.1007/978-3-319-48740-3_42
 publication: International Conference on Web Information Systems Engineering
-publication_short: WISE(CCF-A)
+publication_short: WISE(CCF-C)
 abstract: Distant supervision has been widely adopted in relation extraction
   task since it does not require any labeled data. It can automatically align
   knowledge base with corpus to generate training data. However, the intuition
@@ -36,5 +39,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-12-14T04:58:54.769Z
+date: 2016-11-01T04:58:54.769Z
 ---
