@@ -10,14 +10,7 @@ authors:
   - Xiuzhen Jenny Zhang
   - admin
   - Gang Tian
-author_notes:
-  - Supervisor
-  - Idea and writing
-  - Theoretical support
-  - Theoretical support
-  - Theoretical support
-  - Performing experiments
-  - Theoretical support
+author_notes: []
 doi: https://doi.org/10.18653/v1%2FP18-1217
 publication: In *ACL*
 publication_short: In *ACL(CCF-A)*
