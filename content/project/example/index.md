@@ -18,6 +18,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
+  filename: https://upload.wikimedia.org/wikipedia/zh/0/0a/National_Natural_Science_Foundation_of_China_logo.png
 url_code: ""
 ---
 The General Program of National Natural Science Foundation of China
