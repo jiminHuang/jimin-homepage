@@ -10,7 +10,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: pytorch-icon.svg
+    icon: pytorch-icon
     icon_pack: custom
     name: Pytorch
 widget_id: skills
