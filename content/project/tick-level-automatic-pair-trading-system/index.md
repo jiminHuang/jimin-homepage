@@ -2,7 +2,6 @@
 title: Tick-level automatic pair trading system
 subtitle: TAPTS
 date: 2020-09-01T12:43:11.168Z
-summary: ""
 draft: false
 featured: true
 authors:
