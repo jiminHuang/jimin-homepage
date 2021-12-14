@@ -13,5 +13,9 @@ feature:
     icon: pytorch-icon
     icon_pack: custom
     name: Pytorch
+  - description: 70%
+    icon: feather-alt
+    icon_pack: fas
+    name: Writing
 widget_id: skills
 ---
