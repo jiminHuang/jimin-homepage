@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Min Peng
   - Mingshi Cai
-  - Jimin Huang
+  - admin
   - Yanzhao Lai
   - Xinyuan Dai
 doi: ""
