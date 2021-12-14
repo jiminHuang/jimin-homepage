@@ -1,4 +1,5 @@
 ---
+title: Jimin Huang
 role: Data Scientist
 avatar_filename: 头像.jpg
 bio: My research interests include natural language processing and computational
@@ -14,7 +15,7 @@ social:
       header: false
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SnQ_CycAAAAJ&hl=zh-TW
-    icon: "#ai-google-scholar-square"
+    icon: google-scholar
 organizations:
   - name: ChanceFocus (Shanghai) AMC
 education:
@@ -25,10 +26,9 @@ education:
     - course: BSc in Computer Science and Technology
       institution: Wuhan University
       year: 4
+email: jimin@chancefocus.com
 superuser: true
 highlight_name: true
-title: Jimin Huang
-email: jimin@chancefocus.com
 ---
 Jimin Huang is a data scientist at ChanceFocus AMC. His research interests include natural language processing and computational finance. He leads the Automatic Trading group, which develops systems of asset trading, and core predicting algorithms for downstream tasks such as asset pricing, portfolio management and risk estimation.
 
