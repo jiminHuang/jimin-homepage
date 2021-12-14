@@ -1,7 +1,7 @@
 ---
 title: Jimin Huang
 role: Data Scientist
-avatar_filename: 头像.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include natural language processing and computational
   finance.
 interests:
