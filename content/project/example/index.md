@@ -8,11 +8,13 @@ title: The research on the evolution analysis and trend prediction of social net
 subtitle: 社会网络的主题演化分析与传播趋势预测研究
 featured: true
 tags:
-  - Deep Learning
+  - Natural Language Process
+  - Social Network
 external_link: ""
 url_slides: ""
 links:
   - url: http://www.corc.org.cn/handle/1471x/4158401
+    name: cite
 image:
   caption: ""
   focal_point: Smart
