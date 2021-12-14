@@ -9,7 +9,7 @@ authors:
   - Min Peng
   - Yanzhao Lai
 tags:
-  - computational finance
+  - Computational Finance
 categories: []
 external_link: ""
 image:

@@ -10,7 +10,8 @@ subtitle: 基于无监督知识提取和多关系表示学习的自动问答关�
 featured: true
 tags:
   - Natural Language Process
-  - Social Network
+  - Representation Learning
+  - Knowledge Graph
 external_link: ""
 url_slides: ""
 links:
