@@ -36,4 +36,4 @@ Notice that we also should design the backtest and trading framework simultaneou
 | Trading | Tick-level data | Trading framework | Tick-level execution system |
 
 ## Timeline
-![](https://cdn.nlark.com/yuque/__puml/0602a2bf56115c977d4cadf51499ad71.svg)
+![](timeline.svg, "Timeline(In Chinese)")
