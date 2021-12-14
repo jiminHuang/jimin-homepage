@@ -35,6 +35,8 @@ tags:
   - Relation Extraction
   - Distant Supervision
   - Unsupervised Metho
+projects:
+  - example
 image:
   filename: ""
   focal_point: Smart
