@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Min Peng
-  - Jimin Huang
+  - admin
   - Zhaoyu Sun
   - Shizhong Wang
   - Hua Wang
@@ -14,8 +14,8 @@ author_notes:
   - Supervisor
   - Main contribution
 doi: https://doi.org/10.1007/978-3-319-48740-3_42
-publication: International Conference on Web Information Systems Engineering
-publication_short: WISE(CCF-C)
+publication: In *International Conference on Web Information Systems Engineering*
+publication_short: In *WISE(CCF-C)*
 abstract: Distant supervision has been widely adopted in relation extraction
   task since it does not require any labeled data. It can automatically align
   knowledge base with corpus to generate training data. However, the intuition
