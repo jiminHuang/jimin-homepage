@@ -39,7 +39,8 @@ tags:
   - topic model
   - neural topic model
   - sparse topic model
-projects: []
+projects:
+  - example
 image:
   filename: ""
   focal_point: Smart
