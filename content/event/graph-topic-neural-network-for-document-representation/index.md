@@ -5,6 +5,11 @@ location: Virtual Meeting
 date: 2021-04-22T03:50:10.074Z
 date_end: 2021-04-22T05:30:00.000Z
 all_day: false
+links:
+  - icon_pack: fab
+    icon: youtube
+    url: https://www.youtube.com/watch?v=Ao65_ORPrx0
+    name: video
 event: The Web Conference 2021
 event_url: https://www2021.thewebconf.org/
 publishDate: 2021-04-13T17:57:10.113Z
