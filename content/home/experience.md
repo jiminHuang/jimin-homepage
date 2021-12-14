@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: ChanceFocus (Shanghai) AMC
     company_url: ''
-    company_logo: org-gc
+    company_logo: chancefocus
     location: Shanghai
     date_start: '2018-09-01'
     date_end: ''
