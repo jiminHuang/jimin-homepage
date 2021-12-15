@@ -1,6 +1,6 @@
 ---
 title: Jimin Huang
-role: Data Scientist
+role: Technical Co-founder
 avatar_filename: avatar.jpg
 bio: My research interests include natural language processing and computational
   finance.
@@ -30,6 +30,6 @@ email: jimin@chancefocus.com
 superuser: true
 highlight_name: true
 ---
-Jimin Huang is a data scientist at ChanceFocus AMC. His research interests include natural language processing and computational finance. He leads the Automatic Trading group, which develops systems of asset trading, and core predicting algorithms for downstream tasks such as asset pricing, portfolio management and risk estimation.
+Jimin Huang is a technical co-founder at ChanceFocus AMC. His research interests include natural language processing and computational finance. He leads the Automatic Trading group, which develops systems of asset trading, and core predicting algorithms for downstream tasks such as asset pricing, portfolio management and pair trading.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
