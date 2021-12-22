@@ -10,7 +10,7 @@ authors:
   - Kaifei Peng
   - Hua Wang
 author_notes: []
-doi: ""
+doi: https://doi.org/10.1109/ICDM.2019.00076
 publication: In *ICDM*
 publication_short: ""
 abstract: Deep generative models (DGMs) have shown strong performance in
