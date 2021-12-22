@@ -5,12 +5,12 @@ publication_types:
   - "1"
 authors:
   - Qianqian Xie
-  - Yutao Zhu
+  - P. Tiwari
+  - Deepak Gupta
   - admin
-  - Pan Du
-  - Jian-Yun Nie
+  - Min Peng
 author_notes: []
-doi: ""
+doi: https://doi.org/10.1016/J.IPM.2021.102614
 publication: In *Information Processing & Management*
 publication_short: ""
 abstract: "Texts are the major information carrier for internet users, from
