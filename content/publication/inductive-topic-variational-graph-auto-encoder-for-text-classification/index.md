@@ -9,7 +9,7 @@ authors:
   - Min Peng
   - Jian-Yun Nie
 author_notes: []
-doi: ""
+doi: http://dx.doi.org/10.18653/v1/2021.naacl-main.333
 publication: In *NAACL*
 publication_short: ""
 abstract: Graph convolutional networks (GCNs) have been applied recently to text
