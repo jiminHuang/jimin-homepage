@@ -8,7 +8,7 @@ authors:
   - Pan Du
   - Min Peng
 author_notes: []
-doi: ""
+doi: https://doi.org/10.18653/v1%2F2021.findings-acl.230
 publication: In *ACL Findings*
 publication_short: ""
 abstract: Learning low-dimensional representations of networked documents is a
