@@ -9,7 +9,7 @@ authors:
   - Min Peng
   - Jian-Yun Nie
 author_notes: []
-doi: ""
+doi: https://doi.org/10.1145/3442381.3450045
 publication: In *WWW*
 publication_short: ""
 abstract: "Graph Neural Networks (GNNs) such as GCN can effectively learn
