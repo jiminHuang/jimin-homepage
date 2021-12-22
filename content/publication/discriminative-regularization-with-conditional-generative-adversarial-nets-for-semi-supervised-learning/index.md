@@ -5,13 +5,12 @@ publication_types:
   - "1"
 authors:
   - Qianqian Xie
-  - admin
   - Min Peng
-  - Yihan Zhang
-  - Kaifei Peng
+  - admin
+  - Bin Wang
   - Hua Wang
 author_notes: []
-doi: ""
+doi: https://doi.org/10.1109/IJCNN.2019.8851712
 publication: In *IJCNN*
 publication_short: ""
 abstract: Existing generative adversarial networks (GANs) with manifold
