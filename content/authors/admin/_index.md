@@ -23,7 +23,7 @@ education:
     - course: MEng in Computer Software and Theory
       institution: Wuhan University
       year: 3
-    - course: BSc in Computer Science and Technology
+    - course: BEng in Computer Science and Technology
       institution: Wuhan University
       year: 4
 email: jimin@chancefocus.com
