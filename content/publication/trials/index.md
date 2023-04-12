@@ -1,5 +1,5 @@
 ---
-title: Select and Trade: Towards Unified Pair Trading with Hierarchical Reinforcement Learning.
+title: Select and Trade\: Towards Unified Pair Trading with Hierarchical Reinforcement Learning.
 publication_types:
   - "1"
 authors:
